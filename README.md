@@ -3,7 +3,7 @@
 **Warning:** This project uses PHP version: >=v8.1.6 </br>
 Please install PHP version >=v8.1.6 to run this project.
 
-## Login to the Invoice managger
+## Login to the Invoice manager
 **Email** user@myapp.com </br>
 **Password** 123456 
 
