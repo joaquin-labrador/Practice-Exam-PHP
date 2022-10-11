@@ -1,0 +1,27 @@
+[
+    {
+        "invoiceCategoryId": 1,
+        "description": "EDEA",
+        "active": true
+    },
+    {
+        "invoiceCategoryId": 2,
+        "description": "Luro Authogar",
+        "active": false
+    },
+    {
+        "invoiceCategoryId": 3,
+        "description": "Movistar",
+        "active": false
+    },
+    {
+        "invoiceCategoryId": 4,
+        "description": "CAMUZZI",
+        "active": true
+    },
+    {
+        "invoiceCategoryId": 5,
+        "description": "Claro",
+        "active": true
+    }
+]
