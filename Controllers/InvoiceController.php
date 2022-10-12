@@ -5,6 +5,8 @@ namespace Controllers;
 use DAO\InvoiceDAO as InvoiceDAO;
 use DAO\InvoiceCategoryDAO as InvoiceCategoryDAO;
 use Utils\Session as Session;
+use Model\Invoice as Invoice;
+use Model\InvoiceCategory as InvoiceCategory;
 
 class InvoiceController
 {
@@ -21,7 +23,22 @@ class InvoiceController
     public function ListForm()
     {
         Session::VerifySession();
+        $invoiceCategoryList = $this->invoiceCategoryDAO->GetAll();
+        $invoiceCategoryList = array_filter($invoiceCategoryList, function (InvoiceCategory $invoiceCategory) {
+            return $invoiceCategory->getActive() == 1;
+        });
+
         $invoiceList = $this->invoiceDAO->GetAll();
+
+        $invoiceList = array_filter($invoiceList, function (Invoice $invoice) use ($invoiceCategoryList) {
+            foreach ($invoiceCategoryList as $invoiceCategory) {
+                if ($invoice->GetInvoiceCategoryId() == $invoiceCategory->GetInvoiceCategoryId()) {
+                    return true;
+                }
+            }
+            return false;
+        });   
+
         require_once(VIEWS_PATH . "invoice-list.php");
     }
 
