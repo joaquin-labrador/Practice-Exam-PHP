@@ -1,378 +1,402 @@
 [
     {
-        "invoiceId": 1,
-        "invoiceCategoryId": 5,
-        "amount": "$39704.89",
-        "dueDate": "5\/2\/2021",
-        "payed": false,
-        "number": 207154
-    },
-    {
-        "invoiceId": 2,
-        "invoiceCategoryId": 4,
-        "amount": "$63414.68",
-        "dueDate": "4\/17\/2021",
-        "payed": true,
-        "number": 229492
-    },
-    {
-        "invoiceId": 3,
-        "invoiceCategoryId": 3,
-        "amount": "$66575.80",
-        "dueDate": "11\/22\/2020",
-        "payed": true,
-        "number": 201224
-    },
-    {
-        "invoiceId": 4,
-        "invoiceCategoryId": 4,
-        "amount": "$11045.90",
-        "dueDate": "9\/1\/2020",
-        "payed": false,
-        "number": 758441
-    },
-    {
-        "invoiceId": 5,
-        "invoiceCategoryId": 4,
-        "amount": "$45285.86",
-        "dueDate": "1\/22\/2021",
-        "payed": true,
-        "number": 515954
-    },
-    {
-        "invoiceId": 6,
-        "invoiceCategoryId": 2,
-        "amount": "$55096.84",
-        "dueDate": "2\/23\/2021",
-        "payed": false,
-        "number": 743756
-    },
-    {
-        "invoiceId": 7,
-        "invoiceCategoryId": 1,
-        "amount": "$36908.80",
-        "dueDate": "2\/20\/2021",
-        "payed": true,
-        "number": 655227
-    },
-    {
-        "invoiceId": 8,
-        "invoiceCategoryId": 4,
-        "amount": "$52187.26",
-        "dueDate": "12\/10\/2020",
-        "payed": false,
-        "number": 426838
-    },
-    {
-        "invoiceId": 9,
-        "invoiceCategoryId": 3,
-        "amount": "$43877.73",
-        "dueDate": "10\/7\/2020",
-        "payed": true,
-        "number": 545656
-    },
-    {
-        "invoiceId": 10,
-        "invoiceCategoryId": 3,
-        "amount": "$84863.22",
-        "dueDate": "1\/1\/2021",
-        "payed": false,
-        "number": 822850
-    },
-    {
-        "invoiceId": 11,
-        "invoiceCategoryId": 2,
-        "amount": "$59894.31",
-        "dueDate": "4\/9\/2021",
-        "payed": false,
-        "number": 133467
-    },
-    {
-        "invoiceId": 12,
-        "invoiceCategoryId": 2,
-        "amount": "$58022.08",
-        "dueDate": "9\/19\/2021",
-        "payed": true,
-        "number": 681853
-    },
-    {
-        "invoiceId": 13,
-        "invoiceCategoryId": 3,
-        "amount": "$26084.47",
-        "dueDate": "2\/9\/2021",
-        "payed": true,
-        "number": 641481
-    },
-    {
-        "invoiceId": 14,
-        "invoiceCategoryId": 3,
-        "amount": "$34498.50",
-        "dueDate": "9\/22\/2020",
-        "payed": false,
-        "number": 448317
-    },
-    {
-        "invoiceId": 15,
-        "invoiceCategoryId": 3,
-        "amount": "$71085.29",
-        "dueDate": "8\/3\/2020",
-        "payed": false,
-        "number": 860624
-    },
-    {
-        "invoiceId": 16,
-        "invoiceCategoryId": 2,
-        "amount": "$89579.97",
-        "dueDate": "9\/14\/2020",
-        "payed": true,
-        "number": 113387
-    },
-    {
-        "invoiceId": 17,
-        "invoiceCategoryId": 5,
-        "amount": "$55354.70",
-        "dueDate": "3\/11\/2021",
-        "payed": true,
-        "number": 773162
-    },
-    {
-        "invoiceId": 18,
-        "invoiceCategoryId": 2,
-        "amount": "$4715.64",
-        "dueDate": "8\/10\/2020",
-        "payed": true,
-        "number": 104673
-    },
-    {
-        "invoiceId": 19,
-        "invoiceCategoryId": 5,
-        "amount": "$81291.28",
-        "dueDate": "4\/26\/2021",
-        "payed": false,
-        "number": 158665
-    },
-    {
-        "invoiceId": 20,
-        "invoiceCategoryId": 1,
-        "amount": "$21686.41",
-        "dueDate": "12\/9\/2020",
-        "payed": false,
-        "number": 265185
-    },
-    {
-        "invoiceId": 21,
-        "invoiceCategoryId": 3,
-        "amount": "$62683.70",
-        "dueDate": "3\/25\/2021",
-        "payed": false,
-        "number": 336225
-    },
-    {
-        "invoiceId": 22,
-        "invoiceCategoryId": 5,
-        "amount": "$94671.27",
-        "dueDate": "11\/1\/2020",
-        "payed": false,
-        "number": 550725
-    },
-    {
-        "invoiceId": 23,
-        "invoiceCategoryId": 5,
-        "amount": "$19384.01",
-        "dueDate": "8\/13\/2021",
-        "payed": true,
-        "number": 516224
-    },
-    {
-        "invoiceId": 24,
-        "invoiceCategoryId": 1,
-        "amount": "$80956.49",
-        "dueDate": "7\/30\/2021",
-        "payed": true,
-        "number": 239063
-    },
-    {
-        "invoiceId": 25,
-        "invoiceCategoryId": 1,
-        "amount": "$24387.78",
-        "dueDate": "11\/19\/2020",
-        "payed": false,
-        "number": 233762
-    },
-    {
-        "invoiceId": 26,
-        "invoiceCategoryId": 5,
-        "amount": "$12472.98",
-        "dueDate": "6\/3\/2021",
-        "payed": false,
-        "number": 797698
-    },
-    {
-        "invoiceId": 27,
-        "invoiceCategoryId": 3,
-        "amount": "$5113.31",
-        "dueDate": "5\/4\/2021",
-        "payed": true,
-        "number": 631220
-    },
-    {
-        "invoiceId": 28,
-        "invoiceCategoryId": 5,
-        "amount": "$3060.31",
-        "dueDate": "7\/13\/2021",
-        "payed": true,
-        "number": 263028
-    },
-    {
-        "invoiceId": 29,
-        "invoiceCategoryId": 1,
-        "amount": "$96941.95",
-        "dueDate": "10\/1\/2020",
-        "payed": false,
-        "number": 178285
-    },
-    {
-        "invoiceId": 30,
-        "invoiceCategoryId": 5,
-        "amount": "$67808.14",
-        "dueDate": "8\/18\/2021",
-        "payed": false,
-        "number": 134505
-    },
-    {
-        "invoiceId": 31,
-        "invoiceCategoryId": 5,
-        "amount": "$43811.26",
-        "dueDate": "4\/9\/2021",
-        "payed": true,
-        "number": 157677
-    },
-    {
-        "invoiceId": 32,
-        "invoiceCategoryId": 5,
-        "amount": "$8328.31",
-        "dueDate": "8\/25\/2021",
-        "payed": false,
-        "number": 558665
-    },
-    {
-        "invoiceId": 33,
-        "invoiceCategoryId": 2,
-        "amount": "$27730.84",
-        "dueDate": "11\/5\/2020",
-        "payed": false,
-        "number": 493694
-    },
-    {
-        "invoiceId": 34,
-        "invoiceCategoryId": 1,
-        "amount": "$41955.71",
-        "dueDate": "7\/2\/2021",
-        "payed": false,
-        "number": 842798
-    },
-    {
-        "invoiceId": 35,
-        "invoiceCategoryId": 4,
-        "amount": "$65346.76",
-        "dueDate": "8\/27\/2020",
-        "payed": false,
-        "number": 548497
-    },
-    {
-        "invoiceId": 36,
-        "invoiceCategoryId": 1,
-        "amount": "$18056.67",
-        "dueDate": "1\/27\/2021",
-        "payed": true,
-        "number": 463417
-    },
-    {
-        "invoiceId": 37,
-        "invoiceCategoryId": 3,
-        "amount": "$9157.90",
-        "dueDate": "9\/19\/2020",
-        "payed": false,
-        "number": 889989
-    },
-    {
-        "invoiceId": 38,
-        "invoiceCategoryId": 5,
-        "amount": "$39695.20",
-        "dueDate": "5\/28\/2021",
-        "payed": false,
-        "number": 786968
-    },
-    {
-        "invoiceId": 39,
-        "invoiceCategoryId": 1,
-        "amount": "$71804.05",
-        "dueDate": "7\/25\/2021",
-        "payed": true,
-        "number": 834475
-    },
-    {
-        "invoiceId": 40,
-        "invoiceCategoryId": 2,
-        "amount": "$13624.32",
-        "dueDate": "8\/3\/2021",
-        "payed": false,
-        "number": 197974
-    },
-    {
-        "invoiceId": 41,
-        "invoiceCategoryId": 3,
-        "amount": "$70544.63",
-        "dueDate": "4\/7\/2021",
-        "payed": true,
-        "number": 312069
-    },
-    {
-        "invoiceId": 42,
-        "invoiceCategoryId": 3,
-        "amount": "$74041.42",
-        "dueDate": "7\/18\/2021",
-        "payed": false,
-        "number": 821219
-    },
-    {
-        "invoiceId": 43,
-        "invoiceCategoryId": 2,
-        "amount": "$50742.10",
-        "dueDate": "10\/16\/2020",
-        "payed": false,
-        "number": 880681
-    },
-    {
-        "invoiceId": 44,
-        "invoiceCategoryId": 5,
-        "amount": "$35032.43",
-        "dueDate": "8\/29\/2021",
-        "payed": false,
-        "number": 579512
-    },
-    {
-        "invoiceId": 45,
-        "invoiceCategoryId": 5,
-        "amount": "$74185.40",
-        "dueDate": "9\/20\/2021",
-        "payed": false,
-        "number": 716766
-    },
-    {
-        "invoiceId": 46,
-        "invoiceCategoryId": 2,
-        "amount": "$11366.52",
-        "dueDate": "6\/20\/2021",
-        "payed": false,
-        "number": 259199
-    },
-    {
-        "invoiceId": 50,
-        "invoiceCategoryId": 4,
-        "amount": "$79095.58",
-        "dueDate": "9\/25\/2020",
-        "payed": false,
-        "number": 718929
-    }
-]
+        "invoiceId":1,
+        "invoiceCategoryId":5,
+        "number":207154,       
+        "amount":"$39704.89",
+        "dueDate":"5/2/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":2,
+        "invoiceCategoryId":4,
+        "number":229492,
+        "amount":"$63414.68",
+        "dueDate":"4/17/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":3,
+        "invoiceCategoryId":3,
+        "number":201224,
+        "amount":"$66575.80",
+        "dueDate":"11/22/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":4,
+        "invoiceCategoryId":4,
+        "number":758441,
+        "amount":"$11045.90",
+        "dueDate":"9/1/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":5,
+        "invoiceCategoryId":4,
+        "number":515954,
+        "amount":"$45285.86",
+        "dueDate":"1/22/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":6,
+        "invoiceCategoryId":2,
+        "number":743756,
+        "amount":"$55096.84",
+        "dueDate":"2/23/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":7,
+        "invoiceCategoryId":1,
+        "number":655227,
+        "amount":"$36908.80",
+        "dueDate":"2/20/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":8,
+        "invoiceCategoryId":4,
+        "number":426838,
+        "amount":"$52187.26",
+        "dueDate":"12/10/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":9,
+        "invoiceCategoryId":3,
+        "number":545656,
+        "amount":"$43877.73",
+        "dueDate":"10/7/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":10,
+        "invoiceCategoryId":3,
+        "number":822850,
+        "amount":"$84863.22",
+        "dueDate":"1/1/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":11,
+        "invoiceCategoryId":2,
+        "number":133467,
+        "amount":"$59894.31",
+        "dueDate":"4/9/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":12,
+        "invoiceCategoryId":2,
+        "number":681853,
+        "amount":"$58022.08",
+        "dueDate":"9/19/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":13,
+        "invoiceCategoryId":3,
+        "number":641481,
+        "amount":"$26084.47",
+        "dueDate":"2/9/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":14,
+        "invoiceCategoryId":3,
+        "number":448317,
+        "amount":"$34498.50",
+        "dueDate":"9/22/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":15,
+        "invoiceCategoryId":3,
+        "number":860624,
+        "amount":"$71085.29",
+        "dueDate":"8/3/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":16,
+        "invoiceCategoryId":2,
+        "number":113387,
+        "amount":"$89579.97",
+        "dueDate":"9/14/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":17,
+        "invoiceCategoryId":5,
+        "number":773162,
+        "amount":"$55354.70",
+        "dueDate":"3/11/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":18,
+        "invoiceCategoryId":2,
+        "number":104673,
+        "amount":"$4715.64",
+        "dueDate":"8/10/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":19,
+        "invoiceCategoryId":5,
+        "number":158665,
+        "amount":"$81291.28",
+        "dueDate":"4/26/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":20,
+        "invoiceCategoryId":1,
+        "number":265185,
+        "amount":"$21686.41",
+        "dueDate":"12/9/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":21,
+        "invoiceCategoryId":3,
+        "number":336225,
+        "amount":"$62683.70",
+        "dueDate":"3/25/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":22,
+        "invoiceCategoryId":5,
+        "number":550725,
+        "amount":"$94671.27",
+        "dueDate":"11/1/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":23,
+        "invoiceCategoryId":5,
+        "number":516224,
+        "amount":"$19384.01",
+        "dueDate":"8/13/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":24,
+        "invoiceCategoryId":1,
+        "number":239063,
+        "amount":"$80956.49",
+        "dueDate":"7/30/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":25,
+        "invoiceCategoryId":1,
+        "number":233762,
+        "amount":"$24387.78",
+        "dueDate":"11/19/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":26,
+        "invoiceCategoryId":5,
+        "number":797698,
+        "amount":"$12472.98",
+        "dueDate":"6/3/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":27,
+        "invoiceCategoryId":3,
+        "number":631220,
+        "amount":"$5113.31",
+        "dueDate":"5/4/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":28,
+        "invoiceCategoryId":5,
+        "number":263028,
+        "amount":"$3060.31",
+        "dueDate":"7/13/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":29,
+        "invoiceCategoryId":1,
+        "number":178285,
+        "amount":"$96941.95",
+        "dueDate":"10/1/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":30,
+        "invoiceCategoryId":5,
+        "number":134505,
+        "amount":"$67808.14",
+        "dueDate":"8/18/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":31,
+        "invoiceCategoryId":5,
+        "number":157677,
+        "amount":"$43811.26",
+        "dueDate":"4/9/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":32,
+        "invoiceCategoryId":5,
+        "number":558665,
+        "amount":"$8328.31",
+        "dueDate":"8/25/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":33,
+        "invoiceCategoryId":2,
+        "number":493694,
+        "amount":"$27730.84",
+        "dueDate":"11/5/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":34,
+        "invoiceCategoryId":1,
+        "number":842798,
+        "amount":"$41955.71",
+        "dueDate":"7/2/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":35,
+        "invoiceCategoryId":4,
+        "number":548497,
+        "amount":"$65346.76",
+        "dueDate":"8/27/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":36,
+        "invoiceCategoryId":1,
+        "number":463417,
+        "amount":"$18056.67",
+        "dueDate":"1/27/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":37,
+        "invoiceCategoryId":3,
+        "number":889989,
+        "amount":"$9157.90",
+        "dueDate":"9/19/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":38,
+        "invoiceCategoryId":5,
+        "number":786968,
+        "amount":"$39695.20",
+        "dueDate":"5/28/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":39,
+        "invoiceCategoryId":1,
+        "number":834475,
+        "amount":"$71804.05",
+        "dueDate":"7/25/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":40,
+        "invoiceCategoryId":2,
+        "number":197974,
+        "amount":"$13624.32",
+        "dueDate":"8/3/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":41,
+        "invoiceCategoryId":3,
+        "number":312069,
+        "amount":"$70544.63",
+        "dueDate":"4/7/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":42,
+        "invoiceCategoryId":3,
+        "number":821219,
+        "amount":"$74041.42",
+        "dueDate":"7/18/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":43,
+        "invoiceCategoryId":2,
+        "number":880681,
+        "amount":"$50742.10",
+        "dueDate":"10/16/2020",
+        "payed":false
+     },
+     {
+        "invoiceId":44,
+        "invoiceCategoryId":5,
+        "number":579512,
+        "amount":"$35032.43",
+        "dueDate":"8/29/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":45,
+        "invoiceCategoryId":5,
+        "number":716766,
+        "amount":"$74185.40",
+        "dueDate":"9/20/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":46,
+        "invoiceCategoryId":2,
+        "number":259199,
+        "amount":"$11366.52",
+        "dueDate":"6/20/2021",
+        "payed":false
+     },
+     {
+        "invoiceId":47,
+        "invoiceCategoryId":4,
+        "number":432673,
+        "amount":"$77518.95",
+        "dueDate":"8/22/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":48,
+        "invoiceCategoryId":5,
+        "number":847460,
+        "amount":"$95233.52",
+        "dueDate":"2/7/2021",
+        "payed":true
+     },
+     {
+        "invoiceId":49,
+        "invoiceCategoryId":1,
+        "number":177349,
+        "amount":"$35500.91",
+        "dueDate":"8/21/2020",
+        "payed":true
+     },
+     {
+        "invoiceId":50,
+        "invoiceCategoryId":4,
+        "number":718929,
+        "amount":"$79095.58",
+        "dueDate":"9/25/2020",
+        "payed":false
+     }
+    ]

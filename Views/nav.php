@@ -19,5 +19,11 @@
            </div>";
            
            unset($_SESSION["error"]);    
+     }else if(isset($_SESSION["success"])) {
+          echo "<div class='alert alert-success' role='alert'>
+               <strong> $_SESSION[success] </strong>
+           </div>";
+           
+           unset($_SESSION["success"]);    
      }
 ?>
