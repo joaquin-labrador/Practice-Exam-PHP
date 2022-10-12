@@ -368,14 +368,6 @@
         "number": 259199
     },
     {
-        "invoiceId": 48,
-        "invoiceCategoryId": 5,
-        "amount": "$95233.52",
-        "dueDate": "2\/7\/2021",
-        "payed": true,
-        "number": 847460
-    },
-    {
         "invoiceId": 50,
         "invoiceCategoryId": 4,
         "amount": "$79095.58",

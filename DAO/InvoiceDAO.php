@@ -79,27 +79,12 @@ class InvoiceDAO implements IInvoiceDAO
         return $this->invoiceList;
     }
 
-    public function DeleteInvoice($invoice)
+    public function DeleteInvoice(Invoice $invoice)
     {
         $this->RetrieveData();
-        $invoiceToDelete = new Invoice();
-        $invoiceToDelete = $invoice;
-        $key = array_search($invoiceToDelete, $this->invoiceList);
+        $key = array_search($invoice, $this->invoiceList);
         unset($this->invoiceList[$key]);
         $this->SaveData();
         $_SESSION["success"] = "Factura eliminada con exito";
-
-        /**
-         * array_column($this->invoiceList, "invoiceId")
-         * devuelve los valores de una sola columna de un array asociativo (en este caso, el id de la factura) 
-         * $this->invoiceList[0] = => "invoiceId" => 1, "invoiceCategoryId" => 1, "amount" => 1000, "dueDate" => "2020-12-12", "payed" => false, "number" => 1
-         * aplicando array_column($this->invoiceList, "invoiceId") devuelve un array con los valores de la columna "invoiceId" de cada factura
-         * ex: 
-         * [0] => 1
-         * [1] => 2
-         * [2] => 3
-         * [3] => 4
-         * ...
-         */
     }
 }

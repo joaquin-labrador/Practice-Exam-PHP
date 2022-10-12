@@ -8,7 +8,7 @@
         function Add(Invoice $invoice);
         function GetById($id);
         function GetAll();
-        function DeleteInvoice($invoice);
+        function DeleteInvoice(Invoice $invoice);
         
     }
 ?>
